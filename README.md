@@ -5,7 +5,7 @@
 - 👀 I’m interested in mobile development .
 - 🌱 I’m currently learning  Flutter Framework**
 - 📫 How to reach me **habibaamr3228@gmail.com**
-- ⚡ Fun fact **I Love Football**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
