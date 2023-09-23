@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Habiba Amr</h1>
 <h3 align="center">A Flutter developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Leap Tech** as **Flutter Developer**
-
-- 🌱 I’m currently learning **Clean Architecture with Flutter Framework**
-
-- 📫 How to reach me **ammarfathy516@gmail.com**
-
+- 👨‍💻 I'm a CS student at BFCAI, I'm constantly learning and exploring new technologies to improve my skills.
+- 👀 I’m interested in mobile development .
+- 🌱 I’m currently learning  Flutter Framework**
+- 📫 How to reach me **habibaamr3228@gmail.com**
 - ⚡ Fun fact **I Love Football**
 
 <h3 align="left">Connect with me:</h3>
