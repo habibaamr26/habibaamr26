@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habiba Amr</h1>
-<h3 align="center">A Flutter developer from Egypt</h3>
+
 
 - 👨‍💻 I'm a CS student at BFCAI, I'm constantly learning and exploring new technologies to improve my skills.
 - 👀 I’m interested in mobile development .
