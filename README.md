@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 I'm a CS student at BFCAI, I'm constantly learning and exploring new technologies to improve my skills.
-- 👀 I’m interested in mobile developmer .
+- 👀 I’m interested in mobile developer .
 - 🌱 I’m currently learning  Flutter Framework
 - 📫 How to reach me **habibaamr3228@gmail.com**
 <hr>
