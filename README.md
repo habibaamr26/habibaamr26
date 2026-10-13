@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Habiba Amr</h1>
+# Hi, I'm Habiba 👋
 
+Flutter engineer at **VENVL**, building real-estate apps for brokers and buyers.
 
-- 👨‍💻 I'm a CS student at BFCAI, I'm constantly learning and exploring new technologies to improve my skills.
-- 👀 I’m interested in mobile developer .
-- 🌱 I’m currently learning  Flutter Framework
-- 📫 How to reach me **habibaamr3228@gmail.com**
-<hr>
+- **Dlleni Partners**: broker app with inventory, deal pipeline, commissions and KYC (Dio, Retrofit, Bloc)
+- **Proplix**: property marketplace with map search and lead forms (Supabase, Google Maps, Bloc)
+- I like working on async problems: token refresh, retries, pagination and stale responses
+- BSc in Computer Science & AI, Benha University
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/habiba-amr-11a581250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" height="30" width="40" /></a>
-</p>
-<hr>
+> Company projects are private. The repos below are personal projects and technical tasks.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Tech
+Flutter · Dart · Bloc/Cubit · Dio · Retrofit · REST APIs · Supabase · Firebase · get_it · Git
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/habiba-amr-flutter) · habibaamr3228@gmail.com
