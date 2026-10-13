@@ -2,7 +2,7 @@
 
 Flutter engineer at **VENVL**, building real-estate apps for brokers and buyers.
 
-- **Dlleni Partners**: broker app with inventory, deal pipeline, commissions and KYC (Dio, Retrofit, Bloc)
+- **Broker app**: inventory, deal pipeline, commissions and KYC (Dio, Retrofit, Bloc)
 - **Proplix**: property marketplace with map search and lead forms (Supabase, Google Maps, Bloc)
 - I like working on async problems: token refresh, retries, pagination and stale responses
 - BSc in Computer Science & AI, Benha University
